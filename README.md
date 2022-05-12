@@ -1,7 +1,13 @@
 # Hoteling
-This is a hotel booking website.<br>
-In this website we can book hotel with per day 100 people limit.<br>
-There is a check menu where you can put your booking code and check you booking details and status(Booked/Checkin/Checkout).<br>
-There is a admin panel where we can check bookings.<br>
-In admin pannel we can do checkin of booked persons.<br>
-In admin pannel we can do checkout of checkin people.<br>
+•	Hoteling is a online hotel booking website.<br>
+    Live : <b>eskillsrihan.000webhostapp.com</b><br>
+•	Book menu where you can book rooms with per day 100 room’s limit.<br>
+•	Check menu where you can check your booking details and status (Booked/Checkin/Checkout).<br>
+•	In admin bookings menu you can check booking customers and notify customers about checkin after customer checkedin.<br>
+•	In admin checkin menu you can check checkin customers and notify customers about checkout after customer checkedout.<br>
+•	In admin checkout menu you can check checkout customers.<br>
+<p>Copy and paste link in search bar to open project</p><br>
+<b>eskillsrihan.000webhostapp.com</b><br>
+
+
+
